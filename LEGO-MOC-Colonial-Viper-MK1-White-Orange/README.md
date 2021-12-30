@@ -44,3 +44,18 @@ The landing gear is derived from:
 
 - Zipped [XML Upload File for BrickLink Wanted List](./Colonial_Viper_MK1_V2pb_White_Orange.BrickLink-Wanted-List.zip?raw=true)
 
+# Some Photos
+
+Can be accessed at [rebrickable.com](https://rebrickable.com/mocs/MOC-45112/apenello/colonial-viper-mk1-version-20/#photos)
+
+# Some Comments on the Spare Parts
+
+The last few pages of the instructions list some spare parts, they can be used for:
+
+- 2 pieces of: 1x1 white tile, to replace the navigation lights at the end of the wings
+
+- 4 pieces of: 1x1 dark bluish grey plate, to create sort of "wing marker/signature", as can be seen on the above mentioned photos, so that #1 and #2 Vipers can be distinguished
+
+- 2 pieces of: 1x3 white brick, to remove the "wing marker/signature" parts, and to replace the **1 piece of 1x2 white brick** and **3 pieces of 1x1 white plate**, where the "wing marker/signature" is suggested
+
+

@@ -44,9 +44,19 @@ The landing gear is derived from:
 
 - Zipped [XML Upload File for BrickLink Wanted List](./Colonial_Viper_MK1_V2pb_White_Orange.BrickLink-Wanted-List.zip?raw=true)
 
+# Size Information
+
+Once you have completed this LEGO model, it will have folling dimensions:
+
+- Length: 30.0 CM
+- Width: 17.0 CM
+- Height: 12.5 CM
+
 # Some Photos
 
 Can be accessed at [rebrickable.com](https://rebrickable.com/mocs/MOC-45112/apenello/colonial-viper-mk1-version-20/#photos)
+
+Or [in this folder](./images/INDEX.MD)
 
 # Some Comments on the Spare Parts
 

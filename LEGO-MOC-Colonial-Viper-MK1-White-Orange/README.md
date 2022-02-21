@@ -46,7 +46,7 @@ The landing gear is derived from:
 
 # Size Information
 
-Once you have completed this LEGO model, it will have folling dimensions:
+Once you have completed this LEGO model, it will have following dimensions:
 
 - Length: 30.0 CM
 - Width: 17.0 CM
